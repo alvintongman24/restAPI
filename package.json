@@ -1,0 +1,22 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "expess": "^0.0.1-security",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2",
+    "node": "^20.18.1",
+    "validator": "^13.12.0"
+  }
+}
